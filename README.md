@@ -35,3 +35,8 @@ O que aprendi, ou aprenderei, ao longo da minha jornada:
 <a href="https://www.linkedin.com/in/s%C3%A9rgio-moreira-silva/?originalSubdomain=br"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sergioricardomoreirasilva@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
+<div>
+<a href="https://github.com/sergiomoreirasjr">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomoreirasjr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiomoreirasjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
