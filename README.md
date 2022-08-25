@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/) e finalizarei o curso em Julho de 2023. Sou muito interessado por CyberSecurity, especialmente por IAM.
 
 ## 🛠 &nbsp;Tech Stack
-O que aprendi, ou aprenderei, ao longo da minha jornada:
+O que aprendi, ou aprenderei, ao longo da minha jornada na Trybe:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
 
