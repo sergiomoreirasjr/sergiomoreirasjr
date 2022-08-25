@@ -37,6 +37,6 @@ O que aprendi, ou aprenderei, ao longo da minha jornada na Trybe:
 
 <div>
 <a href="https://github.com/sergiomoreirasjr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomoreirasjr&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiomoreirasjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomoreirasjr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sergiomoreirasjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
