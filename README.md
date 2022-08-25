@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨🏻‍💻 &nbsp;Sobre Mim
+## 👨🏻‍💻 Sobre Mim
 Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/) e finalizarei o curso em Julho de 2023. Sou muito interessado por CyberSecurity, especialmente por IAM.
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 O que aprendi, ou aprenderei, ao longo da minha jornada na Trybe:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
@@ -30,13 +30,15 @@ O que aprendi, ou aprenderei, ao longo da minha jornada na Trybe:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <i class="devicon-git-plain-wordmark colored"></i>
 
-## 📫 &nbsp; Entre em contato comigo:
-
-<a href="https://www.linkedin.com/in/s%C3%A9rgio-moreira-silva/?originalSubdomain=br"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:sergioricardomoreirasilva@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+## ⚡ Minhas estatísticas no GitHub 
 
 <div>
 <a href="https://github.com/sergiomoreirasjr">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomoreirasjr&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sergiomoreirasjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+## 📫  Entre em contato comigo:
+
+<a href="https://www.linkedin.com/in/s%C3%A9rgio-moreira-silva/?originalSubdomain=br"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sergioricardomoreirasilva@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
