@@ -7,7 +7,7 @@ Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web
 
 ## 🛠 Tecnologias que utilizei ao longo da minha jornada na Trybe:
 
-### Bloco 01: Fundamentos do Desenvolvimento Web :heavy_check_mark:
+### Módulo 01: Fundamentos do Desenvolvimento Web :heavy_check_mark:
 <div>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -16,7 +16,7 @@ Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web
 
 </div>
 
-### Bloco 02: Desenvolvimento Front-end :hourglass_flowing_sand:
+### Módulo 02: Desenvolvimento Front-end :hourglass_flowing_sand:
 <div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,7 +24,7 @@ Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web
 
 </div>
 
-### Bloco 03: Desenvolvimento Back-end :hourglass_flowing_sand:
+### Módulo 03: Desenvolvimento Back-end :hourglass_flowing_sand:
 <div>
 
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1) 
@@ -35,7 +35,7 @@ Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web
 
 </div>
 
-### Bloco 04: Ciência da Computação :hourglass_flowing_sand:
+### Módulo 04: Ciência da Computação :hourglass_flowing_sand:
 <div>
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
