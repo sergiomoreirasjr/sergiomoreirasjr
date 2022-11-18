@@ -52,8 +52,6 @@ Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
-
   
 </div>
 
@@ -65,7 +63,6 @@ Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!--
 ## ⚡ Minhas estatísticas no GitHub 
 
 <div>
@@ -73,4 +70,6 @@ Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomoreirasjr&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sergiomoreirasjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<!--
 -->
