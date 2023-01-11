@@ -1,45 +1,28 @@
-<!--
-
--->
-
 ## 👨🏻‍💻 Sobre Mim
-Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/) e finalizarei o curso em Julho de 2023. Sou muito interessado por CyberSecurity, especialmente por IAM.
+Eu me chamo **Sérgio Moreira**, atualmente trabalho com Gestão de Identidades e Acessos (IAM), focado na solução da empresa [NetIQ Microfocus](https://www.microfocus.com/pt-br/cyberres/identity-access-management). Sou estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/) e finalizarei o curso em Julho de 2023.
 
-## 🛠 Tecnologias que utilizei ao longo da minha jornada na Trybe:
+## 🛠 Linguagens que costumo utilizar
 
-### Módulo 01: Fundamentos do Desenvolvimento Web :heavy_check_mark:
 <div>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-### Módulo 02: Desenvolvimento Front-end :heavy_check_mark:
-<div>
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 </div>
 
-### Módulo 03: Desenvolvimento Back-end :hourglass_flowing_sand:
+## 📖 Em aprendizado
 <div>
-
+  
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1) 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-</div>
-
-### Módulo 04: Ciência da Computação :hourglass_flowing_sand:
-<div>
-
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-
+  
 </div>
 
 ## 🔭 Ferramentas que costumo utilizar
