@@ -16,7 +16,7 @@ Eu me chamo **Sérgio Moreira**, atualmente sou estudante de Desenvolvimento Web
 
 </div>
 
-### Módulo 02: Desenvolvimento Front-end :hourglass_flowing_sand:
+### Módulo 02: Desenvolvimento Front-end :heavy_check_mark:
 <div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
