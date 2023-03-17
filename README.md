@@ -1,5 +1,5 @@
 ## About Me 👨‍💻
-I'm Sergio, my passion for IT and my problem-solving skills have led me to begin my specialization in Identity and Access Management (IAM). I'm currently focused on the NetIQ Microfocus technology to further develop my expertise in this field.
+I'm Sergio, my passion for IT and my problem-solving skills have led me to begin my specialization in Identity and Access Management (IAM). I'm currently focused on improving my knowledge on the NetIQ Microfocus technology to further develop my expertise in this field.
 
 To learn more about my professional background, check out my [LinkedIn profile](https://www.linkedin.com/in/sergio-moreira-iam/). Feel free to contact me there.
 
