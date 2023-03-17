@@ -9,11 +9,12 @@ To learn more about my professional background, check out my [LinkedIn profile](
 - Identity and Access Management
 - Identity Governance and Administration
 - Development of drivers REST and TEXT for application integrations
-- Knowledge in leading IAM solutions like NetIQ Microfocus and IBM 
+- Microfocus NetIQ IDM and IGA Workflows
+- Knowledge in leading IAM solutions as NetIQ Microfocus and IBM 
 <!-- - Experience with programming languages, including Java and Python -->
 
 ## Projects 📈
-- Implementation of Identity and Access Management and Identity Governance and Administration solutions from NetIQ Microfocus technologies. The project included environment configuration, server configuration, implementation of Ientity and Access Management functionalities on the final goal of centralizing all identity operations on a secure and single solution.
+- Implementation of IAM and IGA from NetIQ Microfocus technologies. The project included environment configuration, server configuration, implementation of Identity and Access Management functionalities for the final goal of centralizing all identity operations in a scenario where the identity have the appropriate level of access , at the right time, for the right duration, while ensuring compliance and minimizing risks.
 
 ## Certifications 🎓
 - [CyberRes-Access Management Certified Presales Engineer (MFCPE)](https://www.credly.com/badges/573f9b0b-1bd1-480b-90c4-d281beb395f2/public_url)
