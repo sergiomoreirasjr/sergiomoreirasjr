@@ -9,7 +9,7 @@ To learn more about my professional background, check out my [LinkedIn profile](
 - Identity and Access Management
 - Identity Governance and Administration
 - Development of drivers REST and TEXT for application integrations
-- Microfocus NetIQ IDM and IGA Workflows
+- Microfocus NetIQ IDM and IGA
 - Knowledge in leading IAM solutions as NetIQ Microfocus and IBM 
 <!-- - Experience with programming languages, including Java and Python -->
 
